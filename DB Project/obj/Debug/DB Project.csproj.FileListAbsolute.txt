@@ -13,7 +13,6 @@ C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB Project.csprojResolveAssemblyReference.cache
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB_Project.Properties.Resources.resources
-C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB_Project.Welcome.resources
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB Project.csproj.GenerateResource.Cache
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB Project.exe
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB Project.pdb
@@ -22,3 +21,4 @@ C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB_Project.User.resources
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB_Project.Login.resources
 C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB_Project.SignUp.resources
+C:\Users\Ali abdelwahab\Desktop\print\Second Year\Database\DB Project\DB Project\obj\Debug\DB_Project.AddAdmin.resources

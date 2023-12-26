@@ -22,5 +22,27 @@ namespace DB_Project
         {
 
         }
+
+        private void kryptonButton4_Click(object sender, EventArgs e)
+        {
+            if (kryptonPanel1.Visible)
+                kryptonPanel1.Visible = false;
+            else
+                kryptonPanel1.Visible = true;
+        }
+
+        private void kryptonButton1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login f = new Login();
+            f.Show();
+        }
+
+        private void kryptonButton2_Click(object sender, EventArgs e)
+        {
+            AddAdmin f = new AddAdmin();
+            this.Hide();
+            f.Show();
+        }
     }
 }
